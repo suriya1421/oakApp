@@ -9,5 +9,3 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 	SpringApplication.run(MainApp.class, args);
 	}
 	}
-
-
